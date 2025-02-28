@@ -10,9 +10,9 @@ Badges
    :alt: Release
    :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
 
-.. image:: https://img.shields.io/github/license/ravinbrown/Electrum-RVN-Ravencoin.svg?style=for-the-badge
+.. image:: https://img.shields.io/github/license/ravinbrown/Electrum-Ravencoin.svg?style=for-the-badge
    :alt: License
-   :target: https://github.com/ravinbrown/Electrum-RVN-Ravencoin/blob/main/LICENSE
+   :target: https://github.com/ravinbrown/Electrum-Ravencoin/blob/master/LICENCE
 
 Introduction
 ------------
