@@ -21,6 +21,42 @@ Introduction
 - **Author**: Thomas Voegtlin  
 - **Language**: Python (>= 3.8)
 
+Downloads
+=========
+
+.. container:: center
+
+   .. list-table:: Platform Downloads
+      :header-rows: 1
+      :widths: 33 10 33
+      :align: center
+
+      * - **macOS**
+        - **Windows**
+        - **Linux**
+      * - `Download for macOS <https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1>`_
+      * - `Download for Windows <https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1>`_
+      * - `Download for Linux <https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1>`_
+
+   .. container:: download-buttons
+      :align: center
+
+      .. image:: https://img.shields.io/badge/Download-macOS-8A2BE2?style=for-the-badge&logo=macos&logoColor=white
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :alt: Download for macOS
+         :align: center
+
+      .. image:: https://img.shields.io/badge/Download-Windows-FF4500?style=for-the-badge&logo=microsoft&logoColor=white
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :alt: Download for Windows
+         :align: center
+
+      .. image:: https://img.shields.io/badge/Download-Linux-2E8B57?style=for-the-badge&logo=ubuntu&logoColor=white
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :alt: Download for Linux
+         :align: center
+
+
 Getting Started
 ---------------
 
