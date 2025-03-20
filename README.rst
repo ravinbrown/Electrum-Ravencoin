@@ -42,17 +42,17 @@ Downloads
       :align: center
 
       .. image:: https://img.shields.io/badge/Download-macOS-8A2BE2?style=for-the-badge&logo=macos&logoColor=white
-         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/download/v4.2.1/electrum-ravencoin-v1.2.4.dmg
          :alt: Download for macOS
          :align: center
 
       .. image:: https://img.shields.io/badge/Download-Windows-FF4500?style=for-the-badge&logo=microsoft&logoColor=white
-         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/download/v4.2.1/electrum-ravencoin-v1.2.4.exe
          :alt: Download for Windows
          :align: center
 
       .. image:: https://img.shields.io/badge/Download-Linux-2E8B57?style=for-the-badge&logo=ubuntu&logoColor=white
-         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/tag/v4.2.1
+         :target: https://github.com/ravinbrown/Electrum-Ravencoin/releases/download/v4.2.1/electrum-ravencoin-v1.2.4-x86_64.AppImage
          :alt: Download for Linux
          :align: center
 
